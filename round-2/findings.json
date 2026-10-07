@@ -12,11 +12,11 @@
       "evidence": {
         "query_ids": [49],
         "summary": "1.Reputation, on decreasing -increased approval score
-2.Post-length,on increasing -increased approval score
-3.reach,on decreasing-increased score
-4.linked_accounts-not influenced the score
-5.mentions-not influenced the score
-6.report_ratio-not influenced the score"
+                    2.Post-length,on increasing -increased approval score
+                    3.reach,on decreasing-increased score
+                    4.linked_accounts-not influenced the score
+                    5.mentions-not influenced the score
+                    6.report_ratio-not influenced the score."
       }
     }
   ]
