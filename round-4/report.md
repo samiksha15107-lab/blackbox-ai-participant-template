@@ -26,3 +26,8 @@ Most importantly, we did not treat the high scores around 0.99 as evidence that 
 
 ## What we are still unsure about
 We are still unsure about the exact internal model, feature weights, and hidden decision logic used by the original black-box system. Our model is an approximation based on the observations available to us, so some hidden relationships may still differ from the original model.
+# Round 4 — Blackbox Reconstruction
+
+## Google Colab Notebook
+
+[Open Google Colab Notebook](https://colab.research.google.com/drive/1vE8V9K7RzY82tBM7z_dXIlF3aFi4LUPm?usp=sharing)
