@@ -1,17 +1,17 @@
 {
   "round": "round-4",
-  "team": "BB-XXX",
-  "queries_used": 0,
+  "team": "BB-025",
+  "queries_used": 49,
   "claims": [
     {
       "type": "feature_effect",
       "feature": "x1",
       "direction": "increases",
-      "strength": "strong",
-      "confidence": 0.0,
+      "strength": "weak",
+      "confidence": 0.85,
       "evidence": {
-        "query_ids": [],
-        "summary": "Replace this example claim with your own. Every claim needs evidence."
+        "query_ids": [49],
+        "summary": "Round 4 focuses on reconstructing a model similar to the black-box system used in the earlier rounds. We used the observations and query patterns from Round 1 and Round 2 to understand the input–output relationships and then reconstructed and trained a similar ML model using the Round 4 data. The trained model was tested using the 80 Round 4 queries as unseen data to check its ability to generalize and reproduce the expected outputs. Finally, We evaluated the model’s predictions against the actual outputs and prepared the training and evaluation results for submission."
       }
     }
   ]
