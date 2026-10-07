@@ -1,7 +1,7 @@
 # round-2 — Investigate
 
 **Team:** BB-025
-**Queries used:** 32/ budget
+**Queries used:** 75/ budget
 
 ## What we concluded
 1.Reputation, on decreasing -increased approval score
